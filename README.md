@@ -6,13 +6,12 @@
 
 # Разработчики
 В разработке участвуют:
-> thethaaat
+--- thethaaat
 роль - SEO
 github - https://github.com/thethaaat-git
-<
-> Rch0ch
+--- Rch0ch
 роль - помощник SEO
 github - нету
-<
+
 # Наш канал
 https://t.me/myEvilHub
