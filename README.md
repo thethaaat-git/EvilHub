@@ -5,21 +5,15 @@
 Тутор появится после публикации первой версии скрипта, а пока прошу ожидайте.
 
 # Разработчики
-В разработке участвуют:
-
---- thethaaat
-
-роль - SEO
-
-github - https://github.com/thethaaat-git
-
-
---- Rch0ch
-
-роль - помощник SEO
-
+В разработке участвуют:<br>
+--- thethaaat<br>
+роль - SEO<br>
+github - https://github.com/thethaaat-git<br><br>
+--- Rch0ch<br>
+роль - помощник SEO<br>
 github - нету
 
 # Наш канал
-https://t.me/myEvilHub
+https://t.me/myEvilHub<br>
 мм
+<br>
